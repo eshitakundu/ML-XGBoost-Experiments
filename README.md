@@ -1,6 +1,4 @@
 # ML Learning Journey – Heart Disease & Diabetes Prediction with XGBoost  
-**Author:** Your Name  
-**Date:** (Optional)  
 
 This repository contains some of my **first ML projects**, following tutorials from the [Coursera Machine Learning Guided Project](https://coursera.org/share/4c06cda356a9e2d286030460ec852408). 
 The goal was to learn **how to train classification models using XGBoost** and understand the basics of machine learning.  
